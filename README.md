@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores how deep learning can be used to classify cell images into three different classes. Using Python and PyTorch, I built and tested convolutional neural network (CNN) models to learn patterns in cell images and predict their classes.
+This project explores how deep learning can be used to classify cell images into three different classes. Using Python and PyTorch, I built and tested convolutional neural network (CNN) models to learn patterns in cell images(piv and pwv) and predict their classes(days).
 
 I experimented with different model architectures and layer configurations to understand how these changes affect model performance.
 
